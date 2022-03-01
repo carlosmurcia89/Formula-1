@@ -1,0 +1,94 @@
+.tile {
+    width: 200px;
+    height: 200px;
+    margin: 5px;
+    padding: 20px;
+    background-color: #005AFF;
+    float: left;
+    display: block;
+    font-size: 1.7em;
+    margin-block-start: 1.5em;
+    margin-block-end: 1em;
+    margin-inline-start: 20px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    color: beige;
+}
+
+.lightgreen {
+    background-color:#00D2BE;
+}
+
+.blue {
+    background-color: #0600EF;
+}
+
+.red {
+    background-color: #DC0000;
+}
+
+.orange {
+    background-color: #FF8700;
+}
+
+.lightblue {
+    background-color: #0090FF;
+}
+
+.darkblue {
+    background-color: #2B4562;
+}
+
+.green {
+    background-color: #006F62;
+}
+
+.darkred {
+    background-color: #900000;
+}
+
+.white {
+    background-color: #9b9b9b;
+}
+
+.type {
+    width: 1200px;
+    height: 500px;
+    margin: 5px;
+    padding: 20px;
+    background-color: lightsalmon;
+    float: center;
+    display: block;
+    font-size: 2em;
+    margin-block-start: 1.5em;
+    margin-block-end: 1em;
+    margin-inline-start: 20px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    color: darkslategrey;
+}
+
+.title {
+    color: red;
+    font-size: xx-large;
+}
+
+li {
+    float: left;
+    list-style: none;
+    padding: 30px;
+}
+
+nav {
+    float: right;
+    margin-right: 200px;
+}
+
+.info {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+}
+.card {
+    width: 80rem !important;
+}
